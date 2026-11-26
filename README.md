@@ -213,7 +213,7 @@ O Z3 é chamado como processo externo, sem biblioteca nativa no build, com limit
 
 ### Notas atuais
 
-Medidas em 18/11/2026 com o [JaCoCo](https://www.jacoco.org/) (cobertura de código) e o [PIT](https://pitest.org/) (mutação do código), ferramentas gratuitas que rodam pelo Maven. Relatórios completos: **[rvdomingos.github.io/Tool_MCDC_Java/relatorios](https://rvdomingos.github.io/Tool_MCDC_Java/relatorios/)**.
+Medidas em 25/11/2026 com o [JaCoCo](https://www.jacoco.org/) (cobertura de código) e o [PIT](https://pitest.org/) (mutação do código), ferramentas gratuitas que rodam pelo Maven. Relatórios completos: **[rvdomingos.github.io/Tool_MCDC_Java/relatorios](https://rvdomingos.github.io/Tool_MCDC_Java/relatorios/)**.
 
 | Módulo | Testes | Linhas cobertas | Desvios cobertos | Nota de mutação (PIT) | Nota mínima de mutação |
 |---|---|---|---|---|---|
